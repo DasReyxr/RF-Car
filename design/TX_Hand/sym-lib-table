@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "Xtal") (type "KiCad") (uri "/home/dasreyxr/wkn/Knowledge-db/ghfiles/RF-Car/design/lib/ul_NX5032GA-8-000M-STD-CSU-1/KiCADv6/2026-10-10_17-26-03.kicad_sym") (options "") (descr ""))
+	(lib (name "GY-521") (type "KiCad") (uri "/home/dasreyxr/wkn/Knowledge-db/ghfiles/RF-Car/design/lib/GY-521 (1)/GY-521.kicad_sym") (options "") (descr ""))
+)

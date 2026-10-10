@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "footprints") (type "KiCad") (uri "/home/dasreyxr/wkn/Knowledge-db/ghfiles/RF-Car/design/HW_PCB/Librerias/ul_NX5032GA-8-000M-STD-CSU-1/KiCADv6/footprints.pretty") (options "") (descr ""))
+)
