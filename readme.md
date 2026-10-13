@@ -1,7 +1,6 @@
 # RF-Car
 
-A didactic board for triggering SCRs/thyristors — a phase-control firing circuit built for a power electronics course.
-
+A car
 ## Directory structure
 ```
 ├── design
