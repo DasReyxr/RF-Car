@@ -1,0 +1,6 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "TAJB226K016RNJ") (type "KiCad") (uri "/home/dasreyxr/wkn/Knowledge-db/ghfiles/RF-Car/design/lib/TAJB226K016RNJ/TAJB226K016RNJ.kicad_sym") (options "") (descr ""))
+	(lib (name "Xtal") (type "KiCad") (uri "/home/dasreyxr/wkn/Knowledge-db/ghfiles/RF-Car/design/lib/ul_NX5032GA-8-000M-STD-CSU-1/KiCADv6/2026-10-10_17-26-03.kicad_sym") (options "") (descr ""))
+	(lib (name "TL3342F260QG") (type "KiCad") (uri "/home/dasreyxr/wkn/Knowledge-db/ghfiles/RF-Car/design/lib/TL3342F260QG/TL3342F260QG.kicad_sym") (options "") (descr ""))
+)

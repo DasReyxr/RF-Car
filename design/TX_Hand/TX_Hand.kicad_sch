@@ -8080,7 +8080,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GY-521:MODULE_GY-521"
+		(property "Footprint" "GY-521 (1):MODULE_GY-521"
 			(at 40.386 173.228 0)
 			(hide yes)
 			(show_name no)

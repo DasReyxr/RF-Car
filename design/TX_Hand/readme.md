@@ -19,5 +19,5 @@
 ![10-10](src/readme/image-3.png)
 # 10- 11-26
 - Autoroute best try (Still not working)
-- VCC, SW_Luz and GND not connected
+- VCC, SW_Luz and GND not connectedº
 ![alt text](src/readme/image-4.png)
