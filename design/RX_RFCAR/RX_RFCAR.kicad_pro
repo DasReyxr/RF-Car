@@ -679,7 +679,7 @@
         "uuid": "b44e6fd1-366d-4904-8da1-e136aff2ec70"
       }
     ],
-    "used_designators": "#PWR1-17,C1_Driver1,C18,C3_Driver1-2,C2_driver1",
+    "used_designators": "#PWR1-17,#PWR21-31,J2,J9,C1_Driver1,C18-19,C3_Driver1-2,C2_driver1",
     "variants": []
   },
   "sheets": [
