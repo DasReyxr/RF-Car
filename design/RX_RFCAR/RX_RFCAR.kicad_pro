@@ -660,7 +660,7 @@
       "version": 1
     },
     "net_format_name": "",
-    "page_layout_descr_file": "",
+    "page_layout_descr_file": "RX_RFCAR",
     "plot_directory": "",
     "reuse_designators": true,
     "space_save_all_events": true,
@@ -679,7 +679,7 @@
         "uuid": "b44e6fd1-366d-4904-8da1-e136aff2ec70"
       }
     ],
-    "used_designators": "#PWR1-17,#PWR21-31,J2,J9,C1_Driver1,C18-19,C3_Driver1-2,C2_driver1",
+    "used_designators": "R10-12,#PWR1-17,#PWR21-41,J2,J8-10,C1_Driver1,D2,C18-23,C3_Driver1-2,C2_driver1",
     "variants": []
   },
   "sheets": [
